@@ -20,14 +20,13 @@ function Signin() {
           placeholder="User"
         />
         <Input 
-          placeholderTextColor="#ddd"
+          placeholderTextColor="#fff"
           placeholder="Password"
           secureTextEntry
         />
         <ButtonSubmit>
           <TextButton>
-            Entrar
-          </TextButton>
+acessar          </TextButton>AAaA
         </ButtonSubmit>
       </Container>
     </KeyboardView>
