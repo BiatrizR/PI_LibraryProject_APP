@@ -1,0 +1,60 @@
+{
+"Biografias":[
+    {
+    "id": "tXUp5Dm5iCnxczo3njW9",
+    "titulo": "Edmund Wilson",
+    "autor": "Jeffrey Meyers",
+    "edicao": "1995",
+    "image": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/002062d7aa400582a64ff278eddd458e7a86bedf.jpg"
+
+   }
+
+],
+
+"Infanto Juvenil":[
+    {
+    "id": "JSKEdXqRknyrm3fLLjQf",
+    "titulo": "Os Ratos",
+    "autor": "Dyonélio Machado",
+    "edicao": "1935",
+    "image": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/3c6eb1045a8fd5cccfa84da58cb8e469a846b71a.jpg"
+
+   },
+
+   {
+    "id": "uVxCzn4jtPhD3kdeXdTx",
+    "titulo": "Gabriel e a Grande Árvore",
+    "autor": "Júlio Emílio Braz",
+    "edicao": "2006",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_803200-MLB29158562451_012019-O.jpg"
+
+   }
+
+
+
+],
+
+"romance":[
+    {
+    "id": "9GHWm50oIzIJKf4mDik8",
+    "titulo": "O Primo Basilio ",
+    "autor": "Eça de Queiroz/ José de Nicola",
+    "edicao": "1878",
+    "image": "https://biblioteca.tc.df.gov.br/wp-content/uploads/2018/11/Capa-O-Primo-Basilio.jpg"
+
+   },
+
+   {
+    "id": "LPHvvdc4gMH8A1h7QFcq",
+    "titulo": "Jo Beverley",
+    "autor": "Júlio Emílio Braz",
+    "edicao": "2001",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51RnMfhlMBL.jpg"
+
+   }
+
+
+
+]
+
+}
