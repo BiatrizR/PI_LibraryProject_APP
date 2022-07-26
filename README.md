@@ -2,6 +2,6 @@
 
 Projeto Integrador- UNIVESP
  -  Library App 📚
- - Projeto feito com React Naative; :gem:
+ - Projeto feito com React Naative; 
  
  
